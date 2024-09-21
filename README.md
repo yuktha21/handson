@@ -19,6 +19,3 @@ The project here gives contents of the book *Hands-On Machine Learning with Scik
 6. **Math & Tools**:
    - Some notebooks cover linear algebra, calculus, and essential tools like NumPy, Pandas, and Matplotlib.
 
-Additionally, there are documents like a README, installation instructions, and various environment setup files, making it a comprehensive educational resource for machine learning enthusiasts.
-
-Let me know if you need more specific information on any part!
